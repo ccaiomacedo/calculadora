@@ -14,9 +14,7 @@ Requisitos funcionais:
 
 Requisitos não funcionais:
 
--A interface
 -Tempo de resposta curto
--Roda em uma plataforma web
--Roda em qualquer browser
--Executa todas as operações básicas
+-Deve rodar em plataformas web
+-Deve rodar em qualquer browser da atualidade
  
